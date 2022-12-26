@@ -1,7 +1,7 @@
 A responsive UI for Register and Login Pages (responsive_register_login_ui)
 
 ## Getting Started
-This simple project is a simple aesthetic UI for Flutter Apps using Navigator.push to navigate between pages.
+This project is a simple aesthetic UI for Flutter Apps using Navigator.push to navigate between pages.
 
 ## Folder Structure
 Here is the core folder structure which flutter provides.
