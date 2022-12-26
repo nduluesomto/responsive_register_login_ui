@@ -24,8 +24,7 @@ lib/
 |- main.dart</code>
 
 ## Main
-<code>
-import 'package:flutter/material.dart';
+<code>import 'package:flutter/material.dart';
 import 'package:responsive_register_login_ui/pages/login.dart';
 
 void main() {
