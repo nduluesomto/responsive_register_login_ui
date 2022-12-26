@@ -3,6 +3,13 @@
 A responsive UI for Register and Login Pages
 
 ## Getting Started
+## Signup Screen
+
+![Signup Screen](https://user-images.githubusercontent.com/120676400/209547733-8ec98228-5353-48ee-b747-19b354cafdc6.png)
+
+Login Screen
+![Login Screen](https://user-images.githubusercontent.com/120676400/209547795-787b031f-e8a7-471a-b71a-dbf14b043e34.png)
+
 
 This project is a starting point for a Flutter application.
 
