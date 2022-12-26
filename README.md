@@ -40,9 +40,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home: LoginPage(),
-    );
-  }
-}
+    ); }}
 </code>
 
 ## Signup Screen
