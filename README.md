@@ -7,11 +7,11 @@ This simple project is a simple aesthetic UI for Flutter Apps using Navigator.pu
 Here is the core folder structure which flutter provides.
 
 flutter-app/
-|- android
-|- build
-|- ios
-|- lib
-|- test
+# |- android
+# |- build
+# |- ios
+# |- lib
+# |- test
 
 Here is the folder structure we have been using in this project
 lib/
