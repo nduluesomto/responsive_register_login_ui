@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
 </code>
 
 ## Signup Screen
-<img src="https://user-images.githubusercontent.com/120676400/209547733-8ec98228-5353-48ee-b747-19b354cafdc6.png" width="800" height="1200">
+<img src="https://user-images.githubusercontent.com/120676400/209547733-8ec98228-5353-48ee-b747-19b354cafdc6.png" width="600" height="800">
 
 
 ![Signup Screen](https://user-images.githubusercontent.com/120676400/209547733-8ec98228-5353-48ee-b747-19b354cafdc6.png)
