@@ -14,12 +14,12 @@ flutter-app/
 #### |- test
 
 Here is the folder structure we have been using in this project
-lib/
+<code> lib/
 |- images/
 |- pages/
 |- util/
 |- widgets/
-|- main.dart
+|- main.dart</code>
 
 ## Main
 import 'package:flutter/material.dart';
