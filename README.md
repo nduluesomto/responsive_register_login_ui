@@ -24,7 +24,7 @@ lib/
 |- main.dart</code>
 
 ## Main
-<import 'package:flutter/material.dart';
+<code>import 'package:flutter/material.dart';
 import 'package:responsive_register_login_ui/pages/login.dart';
 
 void main() {
@@ -39,8 +39,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home: LoginPage(),
-    ); }}
->
+    ); }}</code>
 
 ## Signup Screen
 <img src="https://user-images.githubusercontent.com/120676400/209547733-8ec98228-5353-48ee-b747-19b354cafdc6.png" width="400" height="800">
