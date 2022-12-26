@@ -5,16 +5,18 @@ This simple project is a simple aesthetic UI for Flutter Apps using Navigator.pu
 
 ## Folder Structure
 Here is the core folder structure which flutter provides.
-
+<code>
 flutter-app/
-#### |- android
-#### |- build
-#### |- ios
-#### |- lib
-#### |- test
+ |- android
+ |- build
+ |- ios
+ |- lib
+ |- test
+ </code>
 
 Here is the folder structure we have been using in this project
-<code> lib/
+<code> 
+lib/
 |- images/
 |- pages/
 |- util/
@@ -22,6 +24,7 @@ Here is the folder structure we have been using in this project
 |- main.dart</code>
 
 ## Main
+<code>
 import 'package:flutter/material.dart';
 import 'package:responsive_register_login_ui/pages/login.dart';
 
@@ -40,7 +43,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+</code>
 
 ## Signup Screen
 
